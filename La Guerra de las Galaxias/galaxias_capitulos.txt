@@ -1,10 +1,6 @@
-<<<<<<< HEAD
-1 - Star Wars: Episodio I - La amenaza fantasma
-=======
 "Hace mucho tiempo, en una galaxia muy, muy lejana […]"
 
 1	- Star Wars: Episodio I - La amenaza fantasma
->>>>>>> c4e626ee3393f8c0d3225e65d767032d983efc63
 2 - Star Wars Episodio II: El ataque de los clones
 3 - Star Wars Episodio III: La venganza de los sith
 4 - Han Solo: Una historia de Star Wars
